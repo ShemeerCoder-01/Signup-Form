@@ -1,0 +1,35 @@
+.container{
+    background-color: black;
+    width: 600px;
+    color: white;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    padding: 40px;
+}
+body{
+    margin: 0;
+}
+input{
+    background-color: black;
+    color: white;
+    font-weight: 300;
+    padding: 8px;
+    border: none;
+    border-style: ;
+    border-bottom: 1px outset white;
+    
+}
+.btn{
+    margin-top: 20px;
+    width: 80px; 
+    height: 40px;
+    
+}
+h1{
+    font-weight: 400px;
+}
+.radi,.check{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
